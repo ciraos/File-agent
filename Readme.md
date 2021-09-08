@@ -9,3 +9,7 @@ JSDelivr 文件管理
 字体：
 
 - ZhuZiAYuanJWD：<https://cdn.jsdelivr.net/gh/ciraos/File-agent@main/fonts/ZhuZiAYuanJWD.ttf>
+
+鼠标：
+
+- <https://cdn.jsdelivr.net/gh/ciraos/File-agent@main/cur/>
