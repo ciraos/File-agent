@@ -16,9 +16,11 @@ JSDelivr 文件管理
 
 
 
-https://cdn.jsdelivr.net/gh/ciraos/File-agent@main/game/ys/[WDC]T(3Y]2F8V`RF]GC~`L.png
+https://cdn.jsdelivr.net/gh/ciraos/File-agent@main/game/ys/pic1.png
 
 
 
-https://cdn.jsdelivr.net/gh/ciraos/File-agent@main/game/ys/(B%5P)]3)050{BTPL4`G0)A.png
+https://cdn.jsdelivr.net/gh/ciraos/File-agent@main/game/ys/pic2.png
+
+
 
