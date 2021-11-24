@@ -7,12 +7,12 @@
 
 body {
     background: var(--body-bg);
+    cursor: url(''), auto;
 }
 
 @font-face {
     font-family: 'ZhuZiAYuanJWD';
     src: url('https://cdn.jsdelivr.net/gh/ciraos/File-agent@main/fonts/ZhuZiAYuanJWD.ttf');
-    font-display: wrap;
 }
 
 .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
