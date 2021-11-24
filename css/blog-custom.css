@@ -5,9 +5,21 @@
     --hover-card-box-shadow: 0 3px 8px 6px rgba(7,17,27,0.15) !important;
 }
 
+/*
+ * cursors from: https://github.com/yml2213/blog-img/
+*/
+
 body {
     background: var(--body-bg);
-    cursor: url('https://cdn.jsdelivr.net/gh/ciraos/File-agent@main/cursor/xuanze.cur'), default;
+    cursor: url('https://cdn.jsdelivr.net/gh/ciraos/File-agent@main/cursor/选择.cur'), default;
+}
+
+a, img {
+    cursor: url('https://cdn.jsdelivr.net/gh/ciraos/File-agent@main/cursor/链接选择.cur'), default;
+}
+
+textarea {
+    cursor: url('https://cdn.jsdelivr.net/gh/ciraos/File-agent@main/cursor/输入.cur'), default;
 }
 
 @font-face {
